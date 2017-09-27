@@ -1,0 +1,19 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YevhenSu/timestampMicroservice.git"
+  },
+  "author": "YevhenSu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YevhenSu/timestampMicroservice/issues"
+  },
+  "homepage": "https://github.com/YevhenSu/timestampMicroservice#readme"
+}
